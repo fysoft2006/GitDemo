@@ -7,7 +7,7 @@ public class GitDemo {
 	 */
 	public static void main(String[] args) {
 		
-		System.out.println("My Git Demo!!!");
+		System.out.println("My Git Demo!!!1");
 		
 	}
 
